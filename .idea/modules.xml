@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AcademyClassroom/Academy.AcademyClassroom.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AcademyClassroom/Academy.AcademyClassroom.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AcademyPayments/Academy.AcademyPayments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AcademyPayments/Academy.AcademyPayments.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AcademyUsers/Academy.AcademyUsers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AcademyUsers/Academy.AcademyUsers.main.iml" />
+    </modules>
+  </component>
+</project>

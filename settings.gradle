@@ -1,0 +1,6 @@
+rootProject.name = 'Academy'
+
+include 'AcademyUsers'
+include 'AcademyClassroom'
+include 'AcademyPayments'
+include 'common'
