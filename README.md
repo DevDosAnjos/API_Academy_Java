@@ -14,32 +14,32 @@ O fluxo principal da aplicação envolve:
 
 
 <details>
-<summary><b>Authentication</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 </details>
 
 <details>
-<summary><b>User</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 </details>
 
 <details>
-<summary><b>Category</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 </details>
 
 <details>
-<summary><b>Product</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 </details>
 
 <details>
-<summary><b>Order</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 </details>
 
 <details>
-<summary><b>Purchase</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 </details>
 
@@ -74,17 +74,17 @@ A API pode ser utilizada pelas formas abaixo:
 Inserts Padrões:
 
 <details>
-<summary><b>User</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 </details>
 
 <details>
-<summary><b>Category</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 </details>
 
 <details>
-<summary><b>Product</b></summary>
+<summary><b></b></summary>
 <img src="" alt="">
 <img src="" alt="">
 </details>
