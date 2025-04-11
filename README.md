@@ -69,7 +69,7 @@ Para utilizar a aplicação:
 
 A API pode ser utilizada pelas formas abaixo:
 - **Acessando a Documentação da API localmente**: http://localhost:8080/swagger-ui/index.html#/
-- **Importando o Arquivo JSON da Collection (Postman ou Insomnia)**: https://github.com/DevDosAnjos/API-REST-ECOMMERCE/blob/main/files/Collection/Ecommerce_collection.json
+- **Importando o Arquivo JSON da Collection (Postman ou Insomnia)**: 
 
 Inserts Padrões:
 
